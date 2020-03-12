@@ -1,8 +1,16 @@
+There are links to notebooks collected in this repo.
 # Materials
-  study materials collected in materials folder
+  Study materials (mainly notebooks) collected in materials folder
+- [ ] [mlcourse Topic 1 EDA with pandas](https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas)
+- [ ] [mlcourse Topic 2.1 Visual data analysis in Python](https://mlcourse.ai/articles/topic2-visual-data-analysis-in-python/)
+- [ ] [mlcourse Topic 2.2 Visual data analysis in Python](https://mlcourse.ai/articles/topic2-part2-seaborn-plotly/)
+- [ ] [HSE ML course Seminar 1](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem01-intro.ipynb)
+- [ ] [Tips for pre-processing](https://www.kaggle.com/shravankoninti/python-data-pre-processing-handy-tips)
+- [ ] [Visualization with Bokeh](https://www.kaggle.com/sitask/tutorial-visualization-with-bokeh)
+
 
 # Exercises
-  practical assignments from exercise folder
+  Practical assignments from exercise folder
 - [ ] [A1 mlcourse EDA with Pandas](https://www.kaggle.com/kashnitsky/a1-demo-pandas-and-uci-adult-dataset)
 - [ ] [A2 mlcourse Analyzing cardiovascular data](https://www.kaggle.com/kashnitsky/a2-demo-analyzing-cardiovascular-data)
 - [ ] [Introduction to machine learning week 1 Pandas](https://openedu.ru/course/hse/INTRML/)
@@ -12,3 +20,8 @@
 
 # Useful links
   Links to other helpful materials.
+- документация: http://pandas.pydata.org/pandas-docs/stable/
+- 10 minutes to pandas: https://pandas.pydata.org/pandas-docs/stable/10min.html
+- Pandas Tutorial: DataFrames in Python: https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
+- Cheet Sheet: https://www.analyticsvidhya.com/blog/2015/07/11-steps-perform-data-analysis-pandas-python/
+- Visualization: http://pandas.pydata.org/pandas-docs/stable/visualization.html
