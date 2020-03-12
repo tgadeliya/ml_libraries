@@ -1,7 +1,7 @@
 # Mix of libraries
 Links and materials about helpful libraries for data science
 
-Materials:
+# Materials:
 - [ ] [mlcourse Topic 2.1 Visual data analysis in Python](https://mlcourse.ai/articles/topic2-visual-data-analysis-in-python/)
 - [ ] [mlcourse Topic 2.2 Visual data analysis in Python](https://mlcourse.ai/articles/topic2-part2-seaborn-plotly/)
 - [ ] [HSE ML course Seminar 1](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem01-intro.ipynb)
