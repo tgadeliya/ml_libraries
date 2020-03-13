@@ -1,7 +1,7 @@
 There are links to notebooks collected in this repo.
 # Materials
   Study materials (mainly notebooks) collected in materials folder
-- [ ] [mlcourse Topic 1 EDA with pandas](https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas)
+- [X] [mlcourse Topic 1 EDA with pandas](https://www.kaggle.com/kashnitsky/topic-1-exploratory-data-analysis-with-pandas)
 - [ ] [mlcourse Topic 2.1 Visual data analysis in Python](https://mlcourse.ai/articles/topic2-visual-data-analysis-in-python/)
 - [ ] [mlcourse Topic 2.2 Visual data analysis in Python](https://mlcourse.ai/articles/topic2-part2-seaborn-plotly/)
 - [ ] [HSE ML course Seminar 1](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem01-intro.ipynb)
@@ -11,7 +11,7 @@ There are links to notebooks collected in this repo.
 
 # Exercises
   Practical assignments from exercise folder
-- [ ] [A1 mlcourse EDA with Pandas](https://www.kaggle.com/kashnitsky/a1-demo-pandas-and-uci-adult-dataset)
+- [X] [A1 mlcourse EDA with Pandas](https://www.kaggle.com/kashnitsky/a1-demo-pandas-and-uci-adult-dataset)
 - [ ] [A2 mlcourse Analyzing cardiovascular data](https://www.kaggle.com/kashnitsky/a2-demo-analyzing-cardiovascular-data)
 - [ ] [Introduction to machine learning week 1 Pandas](https://openedu.ru/course/hse/INTRML/)
 - [ ] [HSE Machine learning Pandas+matplotlib](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-practice/homework-practice-01.ipynb)
