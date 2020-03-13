@@ -16,11 +16,13 @@ There are links to notebooks collected in this repo.
 - [ ] [Introduction to machine learning week 1 Pandas](https://openedu.ru/course/hse/INTRML/)
 - [ ] [HSE Machine learning Pandas+matplotlib](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-practice/homework-practice-01.ipynb)
 - [ ] [numpy 100 exercises](https://github.com/rougier/numpy-100)
+- [ ] [Pandas exercises](https://github.com/guipsamora/pandas_exercises/)
 
 
 # Useful links
-  Links to other helpful materials.
-- документация: http://pandas.pydata.org/pandas-docs/stable/
+  Links to other helpful materials
+- [Pandas cheatsheet pdf](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
+- pandas docs: http://pandas.pydata.org/pandas-docs/stable/
 - 10 minutes to pandas: https://pandas.pydata.org/pandas-docs/stable/10min.html
 - Pandas Tutorial: DataFrames in Python: https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
 - Cheet Sheet: https://www.analyticsvidhya.com/blog/2015/07/11-steps-perform-data-analysis-pandas-python/
