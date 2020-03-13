@@ -25,5 +25,5 @@ There are links to notebooks collected in this repo.
 - pandas docs: http://pandas.pydata.org/pandas-docs/stable/
 - 10 minutes to pandas: https://pandas.pydata.org/pandas-docs/stable/10min.html
 - Pandas Tutorial: DataFrames in Python: https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
-- Cheet Sheet: https://www.analyticsvidhya.com/blog/2015/07/11-steps-perform-data-analysis-pandas-python/
 - Visualization: http://pandas.pydata.org/pandas-docs/stable/visualization.html
+- ["Effective Pandas" source code](https://github.com/TomAugspurger/effective-pandas)
