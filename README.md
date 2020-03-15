@@ -21,6 +21,7 @@ There are links to notebooks collected in this repo.
 
 # Useful links
   Links to other helpful materials
+- [Jupyter Notebook Users Manual](https://jupyter.brynmawr.edu/services/public/dblank/Jupyter%20Notebook%20Users%20Manual.ipynb)
 - [Pandas cheatsheet pdf](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 - pandas docs: http://pandas.pydata.org/pandas-docs/stable/
 - 10 minutes to pandas: https://pandas.pydata.org/pandas-docs/stable/10min.html
