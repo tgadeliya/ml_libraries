@@ -7,14 +7,14 @@ There are links to notebooks collected in this repo.
 - [X] [HSE ML course Seminar 1](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem01-intro.ipynb)
 - [ ] [Tips for pre-processing](https://www.kaggle.com/shravankoninti/python-data-pre-processing-handy-tips)
 - [ ] [Visualization with Bokeh](https://www.kaggle.com/sitask/tutorial-visualization-with-bokeh)
-- [ ] [Plotly tutorial for interactive plots (https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/tutorials/plotly_tutorial_for_interactive_plots_sankovalev.ipynb)
+- [ ] [Plotly tutorial for interactive plots](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_english/tutorials/plotly_tutorial_for_interactive_plots_sankovalev.ipynb)
 
 # Exercises
   Practical assignments from exercise folder
 - [X] [A1 mlcourse EDA with Pandas](https://www.kaggle.com/kashnitsky/a1-demo-pandas-and-uci-adult-dataset)
 - [X] [A2 mlcourse Analyzing cardiovascular data](https://www.kaggle.com/kashnitsky/a2-demo-analyzing-cardiovascular-data)
 - [X] [Introduction to machine learning week 1 Pandas](https://openedu.ru/course/hse/INTRML/)
-- [ ] [HSE Machine learning Pandas+matplotlib](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-practice/homework-practice-01.ipynb)
+- [X] [HSE Machine learning Pandas+matplotlib](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-practice/homework-practice-01.ipynb)
 - [ ] [numpy 100 exercises](https://github.com/rougier/numpy-100)
 - [ ] [Pandas exercises](https://github.com/guipsamora/pandas_exercises/)
 
